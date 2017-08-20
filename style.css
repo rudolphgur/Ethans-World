@@ -1,0 +1,93 @@
+/* Rudolph Gurtovnik Project - Sylish Website */
+
+/* CSS allows you to give your page style (colors, shapes, fonts, etc.)
+You can apply CSS elements to entire HTML classes.*/
+
+body{
+font-family: Arial, "Times New Roman";
+font-size: XX-large;
+}
+
+body#page1{
+background-color:lightskyblue
+}
+
+body#page2{
+background-color: lightgreen
+}
+
+#family_pic {
+text-align:center;
+}
+
+img{
+  width:30%;
+  height:auto;
+}
+
+.title{
+  text-align:center;
+  font-family:cursive;
+}
+
+#index_content{
+  font-size:large;
+  font-style:italic;
+  font-family:sans-serif;
+}
+
+
+.cast{
+text-align:justify;
+position:relative;
+left:40%;
+background-color:orange;
+height: auto;
+width: 30%;
+margin:0px;
+}
+
+#starring{
+  text-align:center;
+}
+
+ul{
+  list-style-type:square;
+}
+
+figcaption{
+  text-align:center;
+}
+
+
+.topic{
+  text-align: center;
+  background-color: orange;
+  font-family:Arial;
+}
+
+img[src="images/marianna.jpg"]{
+width:20%;
+height:auto;
+ }
+
+
+.pic{
+  width: 50%;
+  height: auto;
+  margin-top: 100px;
+
+}
+
+footer{
+  left:40%;
+  background-color: moccasin;
+  position: absolute;
+  align-items:center;
+  font-size: small
+}
+
+.setting{
+  font-style:italic;
+  margin-bottom:100px;
+}
